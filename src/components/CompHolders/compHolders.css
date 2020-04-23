@@ -1,0 +1,8 @@
+.compHolders {
+	margin-bottom: 1rem;
+}
+
+.comp-table {
+	height: 40vh;
+	overflow-y: scroll;
+}

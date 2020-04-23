@@ -1,0 +1,21 @@
+.proposals {
+	margin-bottom: 1rem;
+}
+
+.proposals-panel {
+	overflow-y: scroll;
+	height: 40vh;
+}
+
+.votes {
+	margin-left: auto;
+	margin-right: 0.5rem;
+}
+
+.proposals-not-found {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 50%;
+}
